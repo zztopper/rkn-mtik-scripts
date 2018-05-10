@@ -7,3 +7,7 @@
 /ip firewall address-list add list=myown address=149.154.164.0/22
 /ip firewall address-list add list=myown address=149.154.168.0/22
 /ip firewall address-list add list=myown address=149.154.172.0/22
+/ip firewall address-list add list=myown address=2ip.ru
+/ip firewall address-list add list=myown address=kino.pub
+/ip firewall address-list add list=myown address=rutracker.org
+/ip firewall address-list add list=myown address=products.office.com
