@@ -19,7 +19,6 @@
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=35.180.0.0/16
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=45.76.82.0/23
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=46.101.128.0/17
-/ip firewall address-list add comment="Fuck RKN" list=rkn address=47.91.64.0/19
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=51.136.0.0/15
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=51.15.0.0/16
 /ip firewall address-list add comment="Fuck RKN" list=rkn address=52.32.0.0/16
