@@ -88,3 +88,4 @@
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.me
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.to
 /ip firewall address-list add list=myown comment="MS zOffice" address=products.office.com
+/ip firewall address-list add list=myown comment="kinopub" address=ivq6.shlb.bid
