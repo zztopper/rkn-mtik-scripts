@@ -27824,6 +27824,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.131.219/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.154.237/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.6.0/24
+/ip route add gateway=$GW comment="RKN" dst-address=104.238.10.19/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.10.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.10.76/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.10.112/32
@@ -33927,6 +33928,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.40/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.61/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.69/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.128.75/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.115/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.122/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.128.135/32
@@ -35431,6 +35433,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.99.240/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.99.247/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.100.13/32
+/ip route add gateway=$GW comment="RKN" dst-address=176.58.100.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.100.66/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.100.103/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.100.114/32
@@ -42911,6 +42914,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.128.236/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.130.106/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.132.136/32
+/ip route add gateway=$GW comment="RKN" dst-address=209.97.138.210/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.143.94/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.99.16.14/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.99.16.30/32
