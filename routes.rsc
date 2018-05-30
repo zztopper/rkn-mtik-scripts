@@ -36580,6 +36580,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.134.193/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.134.213/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.134.227/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.79.134.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.134.248/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.135.7/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.135.38/32
