@@ -28665,6 +28665,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.16/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.19/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.48/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.15.53/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.71/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.15.89/32
@@ -37097,6 +37098,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.165.245/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.168.193/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.169.0/24
+/ip route add gateway=$GW comment="RKN" dst-address=176.67.170.135/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.170.216/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.170.224/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.67.172.4/32
@@ -38217,6 +38219,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.103/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.118/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.79.179.135/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.139/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.153/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.175/32
@@ -38432,6 +38435,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.170.162/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.170.179/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.170.234/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.128.171.167/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.173.186/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.173.204/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.174.0/32
