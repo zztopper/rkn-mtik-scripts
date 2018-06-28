@@ -14359,6 +14359,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.136.245/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.138.143/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.147.74/32
+/ip route add gateway=$GW comment="RKN" dst-address=95.179.162.9/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.181.178.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.181.178.40/31
 /ip route add gateway=$GW comment="RKN" dst-address=95.181.178.62/32
@@ -31335,6 +31336,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=148.62.14.134/32
 /ip route add gateway=$GW comment="RKN" dst-address=148.62.14.140/31
 /ip route add gateway=$GW comment="RKN" dst-address=148.62.14.143/32
+/ip route add gateway=$GW comment="RKN" dst-address=148.62.14.149/32
 /ip route add gateway=$GW comment="RKN" dst-address=148.62.14.158/32
 /ip route add gateway=$GW comment="RKN" dst-address=148.62.14.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=148.66.136.61/32
@@ -32976,6 +32978,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.57/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.68/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.82/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.99.68.93/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.109/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.133/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.68.158/32
@@ -35716,6 +35719,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.86/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.138/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.146/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.79.182.169/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.188/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.182.199/32
