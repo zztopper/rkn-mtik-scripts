@@ -2463,6 +2463,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.54.97/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.54.201/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.54.239/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.54.242/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.56.61/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.56.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.56.107/32
@@ -37008,10 +37009,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=185.43.223.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=185.44.74.159/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.44.105.115/32
-/ip route add gateway=$GW comment="RKN" dst-address=185.45.15.192/29
-/ip route add gateway=$GW comment="RKN" dst-address=185.45.15.200/31
-/ip route add gateway=$GW comment="RKN" dst-address=185.45.15.203/32
-/ip route add gateway=$GW comment="RKN" dst-address=185.45.15.204/30
+/ip route add gateway=$GW comment="RKN" dst-address=185.45.15.192/28
 /ip route add gateway=$GW comment="RKN" dst-address=185.45.15.208/29
 /ip route add gateway=$GW comment="RKN" dst-address=185.45.15.217/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.45.15.218/31
