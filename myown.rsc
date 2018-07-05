@@ -88,8 +88,6 @@
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.me
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.to
 /ip firewall address-list add list=myown comment="MS zOffice" address=products.office.com
-/ip firewall address-list add list=myown comment="kinopub" address=ivq6.shlb.bid
-/ip firewall address-list add list=myown comment="ATV Kinopub" address=atv.kinopuber.com
 /ip firewall address-list add list=myown comment="Pornhub" address=pornhub.com
 /ip firewall address-list add list=myown comment="DailyMotion" address=dailymotion.com
 /ip dns cache flush
