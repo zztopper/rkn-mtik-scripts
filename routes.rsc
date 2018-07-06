@@ -4649,6 +4649,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.162/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.168/32
+/ip route add gateway=$GW comment="RKN" dst-address=37.153.114.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.179/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.182/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.224/32
@@ -6234,6 +6235,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.176.21/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.181.191/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.200.158/32
+/ip route add gateway=$GW comment="RKN" dst-address=51.15.201.94/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.203.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.210.214/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.15.211.145/32
@@ -13524,6 +13526,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.93.246/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.96.202/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.98.138/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.130.126.231/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.128.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.129.168/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.142.58/32
@@ -34170,6 +34173,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.44/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.48/32
+/ip route add gateway=$GW comment="RKN" dst-address=176.58.113.56/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.73/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=176.58.113.87/32
