@@ -2579,6 +2579,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.102.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.102.162/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.102.216/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.102.233/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.105.232/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.107.57/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.107.136/32
@@ -2670,6 +2671,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.44/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.61/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.76/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.156.82/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.90/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.104/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.127/32
@@ -14243,6 +14245,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=95.175.98.185/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.130.81/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.131.28/32
+/ip route add gateway=$GW comment="RKN" dst-address=95.179.132.96/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.136.237/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.141.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.179.145.10/32
@@ -35181,6 +35184,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.49/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.79/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.109/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.79.173.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.124/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.173.154/32
