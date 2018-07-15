@@ -9497,11 +9497,13 @@
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.106/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.108/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.118/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.2.114.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.139/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.143/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.167/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.233/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.236/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.2.114.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.115.6/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.115.10/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.115.75/32
