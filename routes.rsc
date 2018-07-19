@@ -2549,6 +2549,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.20.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.22.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.22.192/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.239.22.203/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.23.43/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.26.114/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.28.98/32
@@ -4908,6 +4909,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.162/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.166/32
+/ip route add gateway=$GW comment="RKN" dst-address=37.153.110.186/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.200/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.213/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.110.231/32
@@ -4945,6 +4947,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.92/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.102/32
+/ip route add gateway=$GW comment="RKN" dst-address=37.153.114.113/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.117/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.118/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.114.125/32
@@ -34032,6 +34035,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.201/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.204/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.216/31
+/ip route add gateway=$GW comment="RKN" dst-address=172.99.75.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.100.79/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.100.95/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.100.126/32
