@@ -30620,6 +30620,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.19/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.20/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.22/32
+/ip route add gateway=$GW comment="RKN" dst-address=139.162.144.24/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.33/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.56/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.144.66/32
