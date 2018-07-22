@@ -4987,6 +4987,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.115.242/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.115.244/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.115.250/32
+/ip route add gateway=$GW comment="RKN" dst-address=37.153.115.252/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.157.245.228/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.157.246.76/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.157.250.14/32
@@ -5326,6 +5327,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.55.139.156/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.55.140.113/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.55.147.146/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.55.169.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.55.210.43/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.66.82/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.67.203/32
@@ -28448,6 +28450,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.45.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.46.0/23
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.48.0/24
+/ip route add gateway=$GW comment="RKN" dst-address=104.239.49.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.72.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.76.0/22
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.95.0/24
@@ -28678,6 +28681,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.113/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.138/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.249.39.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.153/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.170/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.221/32
