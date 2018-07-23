@@ -28371,11 +28371,13 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.16.0/22
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.20.0/23
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.12/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.22.35/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.49/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.79/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.83/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.106/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.22.109/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.133/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.149/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.22.153/32
