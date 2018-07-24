@@ -1437,6 +1437,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.52/32
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.63/32
+/ip route add gateway=$GW comment="RKN" dst-address=8.19.32.88/32
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.94/32
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.101/32
 /ip route add gateway=$GW comment="RKN" dst-address=8.19.32.105/32
@@ -2728,6 +2729,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.62/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.74/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.80/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.109.99/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.164/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.213/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.222/32
@@ -5222,6 +5224,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.1.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.1.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.2.37/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.4.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.6.97/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.6.204/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.8.6/32
@@ -10939,6 +10942,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.34/32
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.37/32
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.44/32
+/ip route add gateway=$GW comment="RKN" dst-address=80.85.86.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.59/32
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=80.85.86.94/31
@@ -28670,6 +28674,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.153/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.249.39.159/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.170/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.179/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.39.182/32
@@ -31407,6 +31412,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.203.98/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.203.102/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.203.135/32
+/ip route add gateway=$GW comment="RKN" dst-address=139.162.203.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.203.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.204.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.204.105/32
@@ -37337,6 +37343,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.163/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.182/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.187/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.79.179.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.206/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.212/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.79.179.246/31
@@ -37645,6 +37652,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.240.164/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.240.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.240.232/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.128.242.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.242.114/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.242.123/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.242.189/32
