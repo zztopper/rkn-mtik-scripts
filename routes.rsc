@@ -5340,6 +5340,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.78.24/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.78.77/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.81.233/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.81.245/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.84.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.84.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.85.124/32
@@ -5513,6 +5514,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.136.50/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.136.128/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.138.5/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.79.145.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.146.117/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.146.152/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.147.189/32
@@ -34649,6 +34651,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.19.63/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.44/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.55/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.23.172/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.26.202/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.27.92/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.27.157/32
@@ -35332,6 +35335,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.217.98/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.217.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.217.132/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.217.196/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.217.221/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.217.226/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.218.13/32
