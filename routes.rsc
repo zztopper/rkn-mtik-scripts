@@ -28916,6 +28916,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.38/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.74/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.200.20.233/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.208/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.25.92/32
@@ -28948,16 +28949,21 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.223.71.202/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.12.0/22
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.16.0/21
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.24.37/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.24.42/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.83/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.24.90/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.133/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.24.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.172/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.191/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.199/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.200/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.240/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.24.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.24.244/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.34.35/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.34.48/32
@@ -30068,6 +30074,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.126.46/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.3/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.7/32
+/ip route add gateway=$GW comment="RKN" dst-address=109.123.127.11/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.86/31
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.91/32
@@ -40798,6 +40805,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=185.197.75.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.197.75.143/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.197.75.154/32
+/ip route add gateway=$GW comment="RKN" dst-address=185.198.57.108/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.198.164.26/31
 /ip route add gateway=$GW comment="RKN" dst-address=185.198.164.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.198.164.32/32
@@ -42326,6 +42334,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.196.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.199.36/32
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.202.104/32
+/ip route add gateway=$GW comment="RKN" dst-address=192.169.217.40/32
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.217.231/32
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.218.61/32
 /ip route add gateway=$GW comment="RKN" dst-address=192.169.224.196/32
@@ -45236,6 +45245,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.158.155/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.160.157/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.162.25/32
+/ip route add gateway=$GW comment="RKN" dst-address=212.83.164.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.165.75/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.165.203/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.168.4/32
