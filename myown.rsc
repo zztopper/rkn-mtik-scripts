@@ -90,4 +90,5 @@
 /ip firewall address-list add list=myown comment="MS zOffice" address=products.office.com
 /ip firewall address-list add list=myown comment="Pornhub" address=pornhub.com
 /ip firewall address-list add list=myown comment="DailyMotion" address=dailymotion.com
+/ip firewall address-list add list=myown comment="Roytberg" address=165.227.140.134
 /ip dns cache flush
