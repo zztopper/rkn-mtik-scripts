@@ -30352,10 +30352,13 @@
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.18/31
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.20/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.22/32
+/ip route add gateway=$GW comment="RKN" dst-address=109.123.127.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.28/31
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.30/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.127.36/32
+/ip route add gateway=$GW comment="RKN" dst-address=109.123.127.38/32
+/ip route add gateway=$GW comment="RKN" dst-address=109.123.127.42/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.86/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.163.233.91/32
@@ -34949,7 +34952,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.183/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.189/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.195/32
-/ip route add gateway=$GW comment="RKN" dst-address=165.225.156.197/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.156.196/31
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.30/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.53/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.55/32
@@ -38562,6 +38565,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.204.141/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.204.155/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.204.208/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.128.205.77/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.206.7/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.206.35/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.128.206.146/32
