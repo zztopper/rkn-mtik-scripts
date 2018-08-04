@@ -10570,6 +10570,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.16/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.34/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.55/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.2.114.66/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.82/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.114.94/32
