@@ -5372,6 +5372,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.4.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.4.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.5.82/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.6.38/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.6.97/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.6.204/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.6.211/32
@@ -7152,6 +7153,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.27.145/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.27.155/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.27.235/32
+/ip route add gateway=$GW comment="RKN" dst-address=50.116.27.237/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.28.46/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.28.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.28.173/32
@@ -29590,6 +29592,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.132.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.132.168/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.132.209/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.237.132.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.243/32
@@ -29890,6 +29893,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.102/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.119/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.121/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.239.231.141/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.146/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.182/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.231.184/32
