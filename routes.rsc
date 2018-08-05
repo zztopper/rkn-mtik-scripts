@@ -7086,6 +7086,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.25.153/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.25.235/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.26.32/32
+/ip route add gateway=$GW comment="RKN" dst-address=50.116.26.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.26.208/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.27.18/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.27.103/32
@@ -29118,6 +29119,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.138.94/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.139.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.139.31/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.139.42/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.141.10/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.141.33/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.141.42/32
@@ -29408,6 +29410,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.233/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.254/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.200.21.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.141/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.208/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.254/32
@@ -35007,6 +35010,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.104/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.114/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.117/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.136.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.146/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.152/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.136.159/32
