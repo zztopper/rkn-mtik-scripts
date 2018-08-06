@@ -10785,6 +10785,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.64/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.95/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.138/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.14.188.152/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.157/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.195/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.188.201/32
@@ -29526,6 +29527,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.20.254/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.141/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.200.21.197/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.208/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.21.254/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.25.92/32
@@ -29610,6 +29612,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.136.130/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.136.149/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.136.201/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.237.137.37/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.38/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.68/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.172/32
@@ -45184,6 +45187,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.184.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.184.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.185.16/32
+/ip route add gateway=$GW comment="RKN" dst-address=209.97.185.179/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.186.31/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.186.49/32
 /ip route add gateway=$GW comment="RKN" dst-address=209.97.188.91/32
