@@ -2707,6 +2707,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.83/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.41.100/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.103/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.111/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.41.131/32
@@ -2966,6 +2967,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.161/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.176/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.186/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.156.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.209/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.236/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.156.239/32
@@ -29952,6 +29954,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.133.243/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.237.134.14/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.134.71/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.134.101/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.134.159/32
@@ -44723,6 +44726,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.125.154/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.125.179/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.125.204/32
+/ip route add gateway=$GW comment="RKN" dst-address=198.58.125.247/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.126.24/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.126.56/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.58.126.81/32
