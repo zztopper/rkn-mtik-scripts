@@ -5513,6 +5513,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.23.147/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.24.15/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.24.26/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.24.37/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.24.41/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.24.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.24.103/32
@@ -10750,6 +10751,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.204.203/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.204.224/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.205.37/32
+/ip route add gateway=$GW comment="RKN" dst-address=69.164.205.154/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.205.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.205.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.206.4/31
@@ -16529,6 +16531,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.124.210/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.124.237/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.125.8/32
+/ip route add gateway=$GW comment="RKN" dst-address=96.126.125.81/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.125.176/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.125.228/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.126.26/32
@@ -29801,6 +29804,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.38/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.64/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.87/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.211.93/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.96/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.104/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.211.114/32
