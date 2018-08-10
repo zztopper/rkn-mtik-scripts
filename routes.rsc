@@ -5116,6 +5116,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.19/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.21/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.23/32
+/ip route add gateway=$GW comment="RKN" dst-address=37.153.113.24/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.30/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.41/32
 /ip route add gateway=$GW comment="RKN" dst-address=37.153.113.50/31
@@ -7360,6 +7361,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.30.17/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.30.134/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.31.25/32
+/ip route add gateway=$GW comment="RKN" dst-address=50.116.31.31/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.31.60/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.31.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.31.116/32
@@ -10754,6 +10756,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.32/31
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.40/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.78/32
+/ip route add gateway=$GW comment="RKN" dst-address=69.164.201.94/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=69.164.201.161/32
@@ -15695,6 +15698,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.85.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.85.197/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.87/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.237.86.117/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.122/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.124/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.139/32
