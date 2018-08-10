@@ -5801,6 +5801,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.64.74/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.64.174/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.64.212/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.56.64.251/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.65.20/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.65.68/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.65.175/32
@@ -33037,6 +33038,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.182.201/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.182.222/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.182.236/32
+/ip route add gateway=$GW comment="RKN" dst-address=139.162.182.249/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.183.119/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.183.146/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.183.148/32
@@ -35159,6 +35161,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.81/32
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.108/32
+/ip route add gateway=$GW comment="RKN" dst-address=162.209.77.111/32
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.114/31
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.125/32
 /ip route add gateway=$GW comment="RKN" dst-address=162.209.77.127/32
@@ -35922,6 +35925,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.93/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.106/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.131/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.157.139/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.141/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.154/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.157.157/32
