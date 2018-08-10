@@ -5645,6 +5645,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.119.203/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.119.206/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.120.18/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.120.70/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.120.87/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.120.114/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.120.174/32
@@ -5657,6 +5658,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.121.41/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.121.62/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.121.95/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.121.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.121.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.121.189/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.122.34/32
@@ -5747,6 +5749,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.68.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.68.228/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.69.14/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.56.69.65/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.69.82/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.69.163/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.70.26/32
@@ -5872,6 +5875,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.123.73/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.123.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.123.165/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.56.123.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.123.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.124.7/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.124.58/32
@@ -15296,6 +15300,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.172.205/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.174.84/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.175.228/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.130.185.240/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.188.109/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.200.213/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.215.91/32
@@ -29973,6 +29978,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.38/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.68/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.172/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.237.137.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.235/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.137.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.237.138.9/32
@@ -30410,6 +30416,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.169.224/32
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.174.63/32
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.174.174/32
+/ip route add gateway=$GW comment="RKN" dst-address=107.181.175.107/32
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.175.109/32
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.175.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=107.181.178.55/32
@@ -37319,6 +37326,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.197.130/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.197.146/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.197.174/32
+/ip route add gateway=$GW comment="RKN" dst-address=173.255.197.199/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.197.209/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.198.22/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.198.50/32
