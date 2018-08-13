@@ -5282,6 +5282,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=41.79.184.230/32
 /ip route add gateway=$GW comment="RKN" dst-address=42.112.55.231/32
 /ip route add gateway=$GW comment="RKN" dst-address=43.224.8.10/32
+/ip route add gateway=$GW comment="RKN" dst-address=43.224.8.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=43.225.55.205/32
 /ip route add gateway=$GW comment="RKN" dst-address=43.225.55.240/32
 /ip route add gateway=$GW comment="RKN" dst-address=43.229.113.39/32
@@ -12472,6 +12473,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=82.192.90.101/32
 /ip route add gateway=$GW comment="RKN" dst-address=82.192.90.102/31
 /ip route add gateway=$GW comment="RKN" dst-address=82.193.64.176/32
+/ip route add gateway=$GW comment="RKN" dst-address=82.193.80.249/32
 /ip route add gateway=$GW comment="RKN" dst-address=82.196.0.30/32
 /ip route add gateway=$GW comment="RKN" dst-address=82.196.0.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=82.196.0.173/32
@@ -15730,6 +15732,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.85.184/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.85.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.85.197/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.237.86.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.87/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.117/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.86.122/32
@@ -37452,6 +37455,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.205.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.205.54/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.205.106/32
+/ip route add gateway=$GW comment="RKN" dst-address=173.255.205.159/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.205.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.206.199/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.206.222/32
