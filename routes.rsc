@@ -6118,6 +6118,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.132/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.178/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.195.200.185/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.220/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.227/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.195.200.228/32
@@ -34918,6 +34919,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.151/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.23.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.169/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.172/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.242/32
@@ -41702,6 +41704,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.57.164/31
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.57.169/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.107.57/32
+/ip route add gateway=$GW comment="RKN" dst-address=198.37.112.208/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.113.7/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.113.113/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.37.114.77/32
@@ -44490,6 +44493,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=221.170.197.167/32
 /ip route add gateway=$GW comment="RKN" dst-address=221.218.173.251/32
 /ip route add gateway=$GW comment="RKN" dst-address=221.233.60.38/32
+/ip route add gateway=$GW comment="RKN" dst-address=222.73.228.20/32
 /ip route add gateway=$GW comment="RKN" dst-address=222.73.228.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=222.76.214.34/32
 /ip route add gateway=$GW comment="RKN" dst-address=222.76.214.144/32
