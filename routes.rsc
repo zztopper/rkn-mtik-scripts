@@ -29527,6 +29527,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.52.198/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.53.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.149/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.67.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.220/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.74.23/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.74.217/32
@@ -31490,6 +31491,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=128.0.174.128/32
 /ip route add gateway=$GW comment="RKN" dst-address=128.65.209.82/32
 /ip route add gateway=$GW comment="RKN" dst-address=128.65.210.130/32
+/ip route add gateway=$GW comment="RKN" dst-address=128.72.211.36/32
 /ip route add gateway=$GW comment="RKN" dst-address=128.199.0.0/16
 /ip route add gateway=$GW comment="RKN" dst-address=128.204.207.49/32
 /ip route add gateway=$GW comment="RKN" dst-address=129.121.17.214/32
@@ -34236,6 +34238,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.116.160/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.117.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.117.59/32
+/ip route add gateway=$GW comment="RKN" dst-address=163.172.118.238/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.119.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.119.186/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.120.15/32
@@ -34983,6 +34986,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.148/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.20.151/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.21.16/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.169/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.23.172/32
