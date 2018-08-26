@@ -2790,6 +2790,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.92.55/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.99.52/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.99.193/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.100.185/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.100.206/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.102.205/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.102.214/32
@@ -2987,6 +2988,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.216.242/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.218.4/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.218.12/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.218.44/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.218.52/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.218.59/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.218.65/32
@@ -34558,6 +34560,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.84/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.156.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.133/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.143/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.156.153/32
@@ -43798,6 +43801,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.25.76/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.26.83/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.26.84/32
+/ip route add gateway=$GW comment="RKN" dst-address=212.129.26.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.26.218/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.26.242/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.129.27.14/32
