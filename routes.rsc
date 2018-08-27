@@ -29709,6 +29709,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.41/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.60/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.132.65/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.77/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.132.84/32
@@ -30270,6 +30271,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.10.0/23
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.12.0/23
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.14.0/24
+/ip route add gateway=$GW comment="RKN" dst-address=104.238.24.13/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.24.14/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.24.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.24.69/32
@@ -30311,6 +30313,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.50.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.16/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.39/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.239.51.63/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.118/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.127/32
@@ -32323,6 +32326,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.163.122/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.164.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.164.60/32
+/ip route add gateway=$GW comment="RKN" dst-address=139.162.164.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.164.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.164.201/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.165.25/32
