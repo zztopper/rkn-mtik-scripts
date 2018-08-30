@@ -30236,6 +30236,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.29.115/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.29.157/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.29.204/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.200.29.216/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.30.220/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.30.248/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.200.128.9/32
@@ -30469,6 +30470,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.99/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.239.51.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.118/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.123/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.51.127/32
@@ -33711,6 +33713,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=151.236.222.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=151.248.2.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=151.248.6.104/32
+/ip route add gateway=$GW comment="RKN" dst-address=151.248.188.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=151.249.89.10/32
 /ip route add gateway=$GW comment="RKN" dst-address=151.249.89.239/32
 /ip route add gateway=$GW comment="RKN" dst-address=151.249.89.244/32
@@ -35537,6 +35540,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.147.107/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.147.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.147.131/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.147.161/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.147.175/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.147.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.148.92/32
