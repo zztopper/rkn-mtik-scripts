@@ -5694,6 +5694,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.18/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.77/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.117.123/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.234/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.117.252/32
@@ -8935,6 +8936,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=52.86.199.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=52.88.50.4/32
 /ip route add gateway=$GW comment="RKN" dst-address=52.88.203.177/32
+/ip route add gateway=$GW comment="RKN" dst-address=52.136.232.225/32
 /ip route add gateway=$GW comment="RKN" dst-address=52.144.47.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=52.165.224.81/32
 /ip route add gateway=$GW comment="RKN" dst-address=52.192.4.191/32
@@ -29999,6 +30001,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.6.174/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.6.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.6.217/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.6.223/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.6.224/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.7.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.42.5/32
@@ -36390,6 +36393,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.131.75/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.131.150/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.131.220/32
+/ip route add gateway=$GW comment="RKN" dst-address=173.230.132.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.132.129/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.132.200/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.132.204/32
