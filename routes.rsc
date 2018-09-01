@@ -2372,6 +2372,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.21.58/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.21.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.21.108/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.92.21.127/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.22.91/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.22.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.92.24.15/32
@@ -6257,6 +6258,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.189.225/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.190.128/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.191.35/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.79.192.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.192.130/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.193.33/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.193.66/32
@@ -30909,6 +30911,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.248.17.117/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.248.17.123/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.248.29.212/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.248.52.195/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.248.60.220/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.248.79.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.249.38.0/23
@@ -36061,6 +36064,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.250.221/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.251.32/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.251.214/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.104.251.237/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.251.254/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.252.36/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.104.252.147/32
