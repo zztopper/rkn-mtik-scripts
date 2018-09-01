@@ -5967,6 +5967,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.118.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.118.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.118.50/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.56.118.243/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.119.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.119.147/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.119.214/32
@@ -14277,6 +14278,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=91.108.56.0/22
 /ip route add gateway=$GW comment="RKN" dst-address=91.109.22.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=91.109.22.134/32
+/ip route add gateway=$GW comment="RKN" dst-address=91.109.246.51/32
 /ip route add gateway=$GW comment="RKN" dst-address=91.109.248.1/32
 /ip route add gateway=$GW comment="RKN" dst-address=91.109.248.67/32
 /ip route add gateway=$GW comment="RKN" dst-address=91.109.248.71/32
@@ -30093,6 +30095,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.223/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.225/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.136.226/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.231/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.236/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.136.243/32
@@ -30552,6 +30555,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.41.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.41.214/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.41.222/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.41.240/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.42.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.236.8.90/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.236.40.188/32
