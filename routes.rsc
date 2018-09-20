@@ -2862,6 +2862,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.192/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.109.206/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.109.215/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.119.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.120.27/32
@@ -10487,6 +10488,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.41/32
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.67/32
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.69/32
+/ip route add gateway=$GW comment="RKN" dst-address=64.30.128.99/32
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.105/32
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.145/32
 /ip route add gateway=$GW comment="RKN" dst-address=64.30.128.152/31
@@ -36420,6 +36422,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.112/32
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.119/32
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.125/32
+/ip route add gateway=$GW comment="RKN" dst-address=166.78.99.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.129/32
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.131/32
 /ip route add gateway=$GW comment="RKN" dst-address=166.78.99.139/32
@@ -36776,6 +36779,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.116/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.136/31
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.159/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.99.67.173/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.175/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.184/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.67.187/32
