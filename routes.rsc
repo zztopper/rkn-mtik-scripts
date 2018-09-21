@@ -31197,8 +31197,10 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.38/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.43/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.64/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.47.74/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.103/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.112/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.233.47.124/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.138/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.233.47.148/31
