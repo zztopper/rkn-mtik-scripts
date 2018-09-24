@@ -41380,6 +41380,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.68/31
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.70/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.72/31
+/ip route add gateway=$GW comment="RKN" dst-address=185.123.142.74/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.77/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.80/31
 /ip route add gateway=$GW comment="RKN" dst-address=185.123.142.83/32
