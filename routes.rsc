@@ -6097,6 +6097,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.4/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.9/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.59/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.56.115.130/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.142/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.145/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.56.115.154/31
@@ -6477,6 +6478,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.174.169/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.175.77/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.176.110/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.79.176.127/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.177.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.177.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.179.120/32
@@ -34030,6 +34032,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.128.186/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.128.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.128.211/32
+/ip route add gateway=$GW comment="RKN" dst-address=139.162.128.253/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.130.32/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.130.97/32
 /ip route add gateway=$GW comment="RKN" dst-address=139.162.130.108/32
@@ -37580,6 +37583,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.135/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.137/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.138/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.99.75.143/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.173/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.182/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.99.75.201/32
