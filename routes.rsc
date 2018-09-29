@@ -5497,6 +5497,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.108/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.120/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.128/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.33.25.134/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.156/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.160/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.33.25.163/32
@@ -11975,6 +11976,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.29/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.43/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.62/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.14.185.71/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.122/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.134/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.14.185.139/32
@@ -17618,6 +17620,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.99.81/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.100.48/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.102.131/32
+/ip route add gateway=$GW comment="RKN" dst-address=96.126.103.61/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.103.127/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.103.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.126.104.227/32
@@ -31204,6 +31207,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.52.198/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.53.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.45/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.130.67.89/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.120/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.130.67.149/32
