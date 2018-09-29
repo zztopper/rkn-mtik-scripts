@@ -16770,6 +16770,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.52.154/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.52.160/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.52.198/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.237.53.165/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.80.181/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.80.222/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.81.76/32
