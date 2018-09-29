@@ -2833,6 +2833,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.18/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.27/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.253.85.31/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.32/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.37/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.253.85.50/32
@@ -7933,6 +7934,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.52.246/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.53.103/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.53.165/32
+/ip route add gateway=$GW comment="RKN" dst-address=50.116.54.86/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.54.159/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.54.225/32
 /ip route add gateway=$GW comment="RKN" dst-address=50.116.54.227/32
@@ -8099,6 +8101,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.102/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.173/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.177/32
+/ip route add gateway=$GW comment="RKN" dst-address=51.158.26.182/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.187/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=51.158.26.196/31
@@ -36858,6 +36861,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.194/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.210/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.148.218/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.241/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.247/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.248/32
