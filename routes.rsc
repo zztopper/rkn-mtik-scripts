@@ -41160,6 +41160,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.31.216/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.31.232/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.31.244/32
+/ip route add gateway=$GW comment="RKN" dst-address=185.14.184.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.184.128/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.185.125/32
 /ip route add gateway=$GW comment="RKN" dst-address=185.14.185.235/32
