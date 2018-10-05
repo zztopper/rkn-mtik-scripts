@@ -6506,6 +6506,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.65.171/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.65.180/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.65.247/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.79.66.10/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.66.33/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.66.166/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.66.242/32
@@ -32458,6 +32459,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.42/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.47/32
+/ip route add gateway=$GW comment="RKN" dst-address=104.238.22.72/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.124/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.238.22.153/32
@@ -32650,6 +32652,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.14/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.16/31
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.24/31
+/ip route add gateway=$GW comment="RKN" dst-address=104.239.200.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.31/32
 /ip route add gateway=$GW comment="RKN" dst-address=104.239.200.32/32
@@ -37509,6 +37512,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.115.189/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.115.202/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.115.244/32
+/ip route add gateway=$GW comment="RKN" dst-address=163.172.116.20/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.116.26/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.116.32/32
 /ip route add gateway=$GW comment="RKN" dst-address=163.172.116.37/32
