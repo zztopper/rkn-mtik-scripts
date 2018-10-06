@@ -14127,6 +14127,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.96.222/32
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.96.226/31
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.97.8/32
+/ip route add gateway=$GW comment="RKN" dst-address=84.22.97.43/32
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.97.48/31
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.97.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=84.22.97.94/32
@@ -16925,6 +16926,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.185.240/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.188.109/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.189.142/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.130.189.216/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.190.235/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.191.176/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.130.200.213/32
@@ -18025,6 +18027,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=95.216.177.175/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.216.177.196/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.216.177.224/32
+/ip route add gateway=$GW comment="RKN" dst-address=95.216.178.33/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.216.178.212/32
 /ip route add gateway=$GW comment="RKN" dst-address=95.216.179.27/32
 /ip route add gateway=$GW comment="RKN" dst-address=96.0.159.131/32
@@ -41852,6 +41855,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=178.238.238.185/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.238.238.186/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.238.239.77/32
+/ip route add gateway=$GW comment="RKN" dst-address=178.238.239.78/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.239.62.118/32
 /ip route add gateway=$GW comment="RKN" dst-address=178.239.88.0/21
 /ip route add gateway=$GW comment="RKN" dst-address=178.248.232.213/32
