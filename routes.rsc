@@ -40444,6 +40444,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.233.218/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.234.58/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.234.199/32
+/ip route add gateway=$GW comment="RKN" dst-address=173.255.234.206/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.235.35/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.235.49/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.255.235.157/32
