@@ -2724,6 +2724,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.19.70/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.19.80/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.19.137/32
+/ip route add gateway=$GW comment="RKN" dst-address=23.239.19.189/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.19.220/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.20.110/32
 /ip route add gateway=$GW comment="RKN" dst-address=23.239.20.179/32
@@ -18868,6 +18869,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=103.3.62.209/32
 /ip route add gateway=$GW comment="RKN" dst-address=103.3.62.215/32
 /ip route add gateway=$GW comment="RKN" dst-address=103.3.62.244/32
+/ip route add gateway=$GW comment="RKN" dst-address=103.3.63.225/32
 /ip route add gateway=$GW comment="RKN" dst-address=103.4.200.135/32
 /ip route add gateway=$GW comment="RKN" dst-address=103.4.200.136/32
 /ip route add gateway=$GW comment="RKN" dst-address=103.4.200.195/32
@@ -34150,6 +34152,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.66.17/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.66.19/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.66.22/32
+/ip route add gateway=$GW comment="RKN" dst-address=109.123.66.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.78.75/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.84.9/32
 /ip route add gateway=$GW comment="RKN" dst-address=109.123.84.12/32
@@ -49863,6 +49866,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.162.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.162.113/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.162.144/32
+/ip route add gateway=$GW comment="RKN" dst-address=212.83.162.231/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.163.47/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.163.135/32
 /ip route add gateway=$GW comment="RKN" dst-address=212.83.163.222/32
