@@ -17618,6 +17618,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.37.210/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.38.10/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.38.53/32
+/ip route add gateway=$GW comment="RKN" dst-address=94.237.38.97/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.38.211/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.38.212/32
 /ip route add gateway=$GW comment="RKN" dst-address=94.237.38.214/32
@@ -38671,6 +38672,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.80/31
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.90/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.92/32
+/ip route add gateway=$GW comment="RKN" dst-address=165.225.148.98/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.118/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.120/32
 /ip route add gateway=$GW comment="RKN" dst-address=165.225.148.128/32
@@ -40582,6 +40584,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.28/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.39/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.107/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.105.194.126/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.140/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.159/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.194.243/32
@@ -48365,6 +48368,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.13/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.84/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.90/31
+/ip route add gateway=$GW comment="RKN" dst-address=198.74.52.96/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.124/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.139/32
 /ip route add gateway=$GW comment="RKN" dst-address=198.74.52.158/32
