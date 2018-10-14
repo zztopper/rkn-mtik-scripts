@@ -6803,6 +6803,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.97.207/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.97.253/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.98.53/32
+/ip route add gateway=$GW comment="RKN" dst-address=45.79.99.4/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.99.32/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.100.217/32
 /ip route add gateway=$GW comment="RKN" dst-address=45.79.101.78/32
@@ -12611,6 +12612,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.115.254/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.118.0/24
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.119.1/32
+/ip route add gateway=$GW comment="RKN" dst-address=72.2.119.2/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.119.12/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.119.25/32
 /ip route add gateway=$GW comment="RKN" dst-address=72.2.119.27/32
@@ -40754,6 +40756,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.216.60/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.216.170/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.216.176/32
+/ip route add gateway=$GW comment="RKN" dst-address=172.105.216.213/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.216.239/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.217.16/32
 /ip route add gateway=$GW comment="RKN" dst-address=172.105.217.23/32
@@ -41108,6 +41111,7 @@
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.135.177/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.135.192/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.135.196/32
+/ip route add gateway=$GW comment="RKN" dst-address=173.230.135.228/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.136.45/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.136.85/32
 /ip route add gateway=$GW comment="RKN" dst-address=173.230.136.106/32
