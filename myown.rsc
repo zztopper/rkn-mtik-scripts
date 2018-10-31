@@ -85,6 +85,9 @@
 /ip firewall address-list add list=myown comment="kino.pub" address=kino.pub
 /ip firewall address-list add list=myown comment="rutracker" address=rutracker.org
 /ip firewall address-list add list=myown comment="rutracker" address=bt.t-ru.org
+/ip firewall address-list add list=myown comment="rutracker" address=static.t-ru.org
+/ip firewall address-list add list=myown comment="rutracker" address=rutrk.org
+
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.me
 /ip firewall address-list add list=myown comment="NNM" address=nnm-club.to
 /ip firewall address-list add list=myown comment="MS zOffice" address=products.office.com
